@@ -46,6 +46,28 @@ Quelques images afin de présenter l'application crée lors de cette SAE
 
 ![](Images_SAE/Credit.png)
 
+Cette compétence à aussi été développée lors de la SAE S3.A.01 avce la création d'une application mobile.
+Voici quelques visuels de cette application : 
+
+
+![](Images_SAE/AppliVisuel.png)
+
+
+![](Images_SAE/AppliVisuel1.png)
+
+
+![](Images_SAE/AppliVisuel2.png)
+
+
+![](Images_SAE/AppliVisuel3.png)
+
+
+![](Images_SAE/AppliVisuel4.png)
+
+
+![](Images_SAE/AppliVisuel5.png)
+
+
 ## COMPÉTENCE 2 : OPTIMISER DES APPLICATIONS
 
 Cette compétence à été développée au cours du module "programmation efficace" et plus précisément dans le TP 3
