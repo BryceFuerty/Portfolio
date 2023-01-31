@@ -50,22 +50,22 @@ Cette compétence à aussi été développée lors de la SAE S3.A.01 avce la cr�
 Voici quelques visuels de cette application : 
 
 
-![](Images_SAE/AppliVisuel.png)
+![](Images_SAE/AppliVisuel.jpg)
 
 
-![](Images_SAE/AppliVisuel1.png)
+![](Images_SAE/AppliVisuel1.jpg)
 
 
-![](Images_SAE/AppliVisuel2.png)
+![](Images_SAE/AppliVisuel2.jpg)
 
 
-![](Images_SAE/AppliVisuel3.png)
+![](Images_SAE/AppliVisuel3.jpg)
 
 
-![](Images_SAE/AppliVisuel4.png)
+![](Images_SAE/AppliVisuel4.jpg)
 
 
-![](Images_SAE/AppliVisuel5.png)
+![](Images_SAE/AppliVisuel5.jpg)
 
 
 ## COMPÉTENCE 2 : OPTIMISER DES APPLICATIONS
