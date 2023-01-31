@@ -47,25 +47,9 @@ Quelques images afin de présenter l'application crée lors de cette SAE
 ![](Images_SAE/Credit.png)
 
 Cette compétence à aussi été développée lors de la SAE S3.A.01 avce la création d'une application mobile.
-Voici quelques visuels de cette application : 
+Voici quelques visuels de cette application [ici]([https://github.com/IUT-Blagnac/SAE-S2-01-1A01](https://github.com/BryceFuerty/Portfolio/tree/main/Images_SAE/ApplicationMobileImages)).
 
 
-![](Images_SAE/AppliVisuel.jpg)
-
-
-![](Images_SAE/AppliVisuel1.jpg)
-
-
-![](Images_SAE/AppliVisuel2.jpg)
-
-
-![](Images_SAE/AppliVisuel3.jpg)
-
-
-![](Images_SAE/AppliVisuel4.jpg)
-
-
-![](Images_SAE/AppliVisuel5.jpg)
 
 
 ## COMPÉTENCE 2 : OPTIMISER DES APPLICATIONS
